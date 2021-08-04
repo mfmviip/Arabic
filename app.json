@@ -1,7 +1,7 @@
 {
   "name": "Source TOKYO Music",
-  "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Developed by Abs.",
-  "logo": "https://raw.githubusercontent.com/iq0abs/MusicBot/master/TOKYO.jpg",
+  "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Developed by MUSTAFA.",
+  "logo": "https://telegra.ph/file/967209504b62689f5f770.jpg",
   "keywords": ["music", "voicechat", "telegram"],
   "repository": "https://t.me/TOKYO_TEAM/",
   "stack": "container",
